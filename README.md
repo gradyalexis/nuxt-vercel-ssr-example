@@ -1,4 +1,4 @@
-# evermos-test
+# nuxt-vercel-ssr-example
 
 ## Build Setup
 
