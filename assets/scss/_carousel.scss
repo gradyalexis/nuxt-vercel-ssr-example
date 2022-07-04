@@ -1,0 +1,60 @@
+.carousel {
+  display: flex;
+  flex: 1;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  &-vertical {
+    flex-direction: column;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+  }
+
+  &-item {
+    display: flex;
+    flex: none;
+    box-sizing: content-box;
+    scroll-snap-align: start;
+    position: relative;
+    width: 100%;
+  }
+
+  &-center &-item {
+    scroll-snap-align: center;
+  }
+
+  &-end &-item {
+    scroll-snap-align: end;
+  }
+
+  &-navigation {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    --translate-x: 0;
+    --translate-y: -50%;
+    --rotate: 0;
+    --skew-x: 0;
+    --skew-y: 0;
+    --scale-x: 1;
+    --scale-y: 1;
+    transform: translateX(var(--translate-x)) translateY(var(--translate-y))
+      rotate(var(--rotate)) skewX(var(--skew-x)) skewY(var(--skew-y))
+      scaleX(var(--scale-x)) scaleY(var(--scale-y));
+    top: 50%;
+    --carousel-nav-gap: 0.125rem;
+    left: var(--carousel-nav-gap);
+    right: var(--carousel-nav-gap);
+
+    @media (min-width: 1024px) {
+      --carousel-nav-gap: 1.25rem;
+    }
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

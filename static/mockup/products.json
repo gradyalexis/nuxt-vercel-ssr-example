@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Exotic Lamp",
+    "type": "Lighting",
+    "rating": "4.3",
+    "reviews": "328",
+    "isHighlight": 0,
+    "colors": [
+      "#efffa1",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/lamp.png",
+    "price": 250,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Exotic Urn",
+    "type": "Display",
+    "rating": "3.7",
+    "reviews": "1034",
+    "isHighlight": 0,
+    "colors": [
+      "#222333",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/urn.png",
+    "price": 220,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Modern Chair",
+    "type": "Furniture",
+    "rating": "4.6",
+    "reviews": "1045",
+    "isHighlight": 0,
+    "colors": [
+      "#b8b8b8",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/chair.png",
+    "price": 245,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Flower Vase",
+    "type": "Display",
+    "rating": "4.1",
+    "reviews": "983",
+    "isHighlight": 0,
+    "colors": [
+      "#e8e8eb",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/vase.png",
+    "price": 285,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Handmade Modelship",
+    "type": "Display",
+    "rating": "4.8",
+    "reviews": "1439",
+    "isHighlight": 0,
+    "colors": [
+      "#906033",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/ship.png",
+    "price": 270,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Modern Watch",
+    "type": "Accessories",
+    "rating": "4.2",
+    "reviews": "538",
+    "isHighlight": 0,
+    "colors": [
+      "#2b2b36",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/watch.png",
+    "price": 265,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Exotic Lamp",
+    "type": "Lighting",
+    "rating": "4.3",
+    "reviews": "328",
+    "isHighlight": 0,
+    "colors": [
+      "#efffa1",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/lamp.png",
+    "price": 250,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Exotic Urn",
+    "type": "Display",
+    "rating": "3.7",
+    "reviews": "1034",
+    "isHighlight": 0,
+    "colors": [
+      "#222333",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/urn.png",
+    "price": 220,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Modern Chair",
+    "type": "Furniture",
+    "rating": "4.6",
+    "reviews": "1045",
+    "isHighlight": 0,
+    "colors": [
+      "#b8b8b8",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/chair.png",
+    "price": 245,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Flower Vase",
+    "type": "Display",
+    "rating": "4.1",
+    "reviews": "983",
+    "isHighlight": 0,
+    "colors": [
+      "#e8e8eb",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/vase.png",
+    "price": 285,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Handmade Modelship",
+    "type": "Display",
+    "rating": "4.8",
+    "reviews": "1439",
+    "isHighlight": 0,
+    "colors": [
+      "#906033",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/ship.png",
+    "price": 270,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "name": "Modern Watch",
+    "type": "Accessories",
+    "rating": "4.2",
+    "reviews": "538",
+    "isHighlight": 0,
+    "colors": [
+      "#2b2b36",
+      "#0d1132",
+      "#f7f7f7",
+      "#ffffff"
+    ],
+    "image": "/products/watch.png",
+    "price": 265,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }
+]
